@@ -4,3 +4,4 @@ djangorestframework-api-key==2.*
 djangorestframework
 markdown
 django-filter
+networkx
